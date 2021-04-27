@@ -5,6 +5,6 @@ public class GitTest {
         System.out.println("hello are you ok git");
         System.out.println("hello are you ok github");
         System.out.println("hello are you ok branch hot-fix");
-
+        System.out.println("hello are you ok branch master");
     }
 }
